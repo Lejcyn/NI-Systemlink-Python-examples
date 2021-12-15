@@ -2,6 +2,8 @@
 from tag_web_api import TagAPI
 
 actions = ["create"] # ["workspaces", "create", "write", "read"]
+#actions = ["write"] # ["workspaces", "create", "write", "read"]
+#actions = ["read"] # ["workspaces", "create", "write", "read"]
 server = "10.92.1.27:80"                     # "localhost:9090"
 # username = "admin"                            # enter the credentials here that you
 # password = "admin"                     # use to log in to SystemLink web pages
